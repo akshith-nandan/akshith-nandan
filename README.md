@@ -28,7 +28,7 @@
   <a href="https://github.com/akshith-nandan" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://leetcode.com/u/akshith_nandan" target="_blank">
+  <a href="https://leetcode.com/u/Akshithsunny/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
   </a>
 </p>
@@ -38,7 +38,7 @@
 ## 💻 Tech Stack
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=js,python,java" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,python" /></p>
 
 > ES6+ · SQL
 
