@@ -14,8 +14,11 @@
 - 🌱 Actively learning **System Design, DSA, and Cloud Technologies**
 - 🏅 **Patent Filed** – Automated Sleep Disorder Detection & Monitoring System (Application No. 202541033774)
 - 🏅 **Patent Filed** – Digital Trust System for Government Certificate Issuance and Verification
+## Connect With Me
+
 - 🌐 GitHub: **[github.com/akshith-nandan](https://github.com/akshith-nandan)**
-- 📫 **[akshithmandapelly@gmail.com](mailto:akshithmandapelly@gmail.com)**
+- 💼 Portfolio: **[akshith-nandan.github.io/My_Portfolio](https://akshith-nandan.github.io/My_Portfolio/)**
+- 📫 Email: **[akshithmandapelly@gmail.com](mailto:akshithmandapelly@gmail.com)**
 
 ---
 
