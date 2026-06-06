@@ -61,7 +61,10 @@
 > Mongoose
 
 ### Tools & Platforms
-<p><img src="https://skillicons.dev/icons?i=git,github,linux,vscode" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+</p>
 
 > Postman · Data Structures & Algorithms · OOP · DBMS · OS · Computer Networks
 
