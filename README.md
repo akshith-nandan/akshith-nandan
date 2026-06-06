@@ -66,7 +66,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
 </p>
 
-> Postman · Data Structures & Algorithms · OOP · DBMS · OS · Computer Networks
+> Data Structures & Algorithms · OOP · DBMS · OS · Computer Networks
 
 ---
 
