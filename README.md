@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshith Nandan Mandapelly</h1>
-<h3 align="center">Full-Stack Developer · MERN Stack · REST APIs · Socket.IO · System Design</h3>
+<h3 align="center">MERN Stack Developer· REST APIs · Socket.IO · System Design</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshith-nandan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
